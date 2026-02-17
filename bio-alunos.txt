@@ -7,3 +7,11 @@ Bairro: Vila Mafra
 Se trabalha: Trabalho como Engenheiro de Software em um escritório de advocacia e sou Professor de Ensino Técnico em uma ETEC.
 Objetivo: Retornar ao mercado de desenvolvimento de jogos.
 ---
+Nome: Aluno 1
+RA: 1
+Curso: Exemplo 1
+Semestre: 1°
+Bairro: Exemplo 1
+Se trabalha: Exemplo 1
+Objetivo: Exemplo 1
+---
