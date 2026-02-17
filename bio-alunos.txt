@@ -1,0 +1,9 @@
+---
+Nome: Marcelo Antonio Pereira Marcolino
+RA: 824144456
+Curso: Engenharia de Software
+Semestre: 5°
+Bairro: Vila Mafra
+Se trabalha: Trabalho como Engenheiro de Software em um escritório de advocacia e sou Professor de Ensino Técnico em uma ETEC.
+Objetivo: Retornar ao mercado de desenvolvimento de jogos.
+---
