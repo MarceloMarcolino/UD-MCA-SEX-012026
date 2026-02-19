@@ -31,3 +31,10 @@ Bairro: vila formosa
 Se trabalha: analista de sistemas 
 Objetivo: ingressar na área de redes, com objetivo de virar um analista de infraestrutura PJ
 ---
+Nome: Gustavo de Oliveira Nascimento
+RA: 8241330662
+Curso: Engenharia de software 
+Semestre: 5 semestre 
+Bairro: Tatuapé
+Se trabalha: analista de sistemas 
+Objetivo: Crescer na área de Tecnologia.
