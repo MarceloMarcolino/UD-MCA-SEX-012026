@@ -15,3 +15,19 @@ Bairro: Exemplo 1
 Se trabalha: Exemplo 1
 Objetivo: Exemplo 1
 ---
+Nome: Ana Carolina Alves Dias
+RA: 824133548
+Curso: Engenharia de Software 
+Semestre: 5°
+Bairro: Vila Ré
+Se trabalha: Estagiária na área de Global Technology / Application management em um banco alemão
+Objetivo: Atualmente meu objetivo seria a efetivação no meu trabalho.
+---
+Nome: Matheus Henrique Vieira da Silva 
+RA: 824136558
+Curso: engenharia de software 
+Semestre: 5 semestre 
+Bairro: vila formosa 
+Se trabalha: analista de sistemas 
+Objetivo: ingressar na área de redes, com objetivo de virar um analista de infraestrutura PJ
+---
