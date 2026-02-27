@@ -29,4 +29,12 @@ Curso: Engenharia de software 
 Semestre: 5 semestre 
 Bairro: Tatuapé
 Se trabalha: analista de sistemas 
-Objetivo: Crescer na área de Tecnologia.
+Objetivo: Crescer na área de Tecnologia. 
+---
+Nome: Kauã Henrique Gazaroli Da Silva
+RA: 82413217
+Curso: Engenharia de software 
+Semestre: 5 semestre 
+Bairro: santana
+Se trabalha: 
+Objetivo: Crescer na área de Tecnologia e atuar fora do pais 
