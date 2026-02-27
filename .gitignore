@@ -1,3 +1,6 @@
 # Ignore activity instruction files
 Atividade2602.txt
 AtividadeT2.txt
+
+# Ignore all files inside the instrucoes_atividades folder
+instrucoes_atividades/*
