@@ -29,7 +29,11 @@ Curso: Engenharia de software 
 Semestre: 5 semestre 
 Bairro: Tatuapé
 Se trabalha: analista de sistemas 
+<<<<<<< HEAD
 Objetivo: Crescer na área de Tecnologia.
+=======
+Objetivo: Crescer na área de Tecnologia. 
+>>>>>>> Kaua
 ---
 Nome: Kauã Henrique Gazaroli Da Silva
 RA: 82413217
@@ -37,4 +41,8 @@ Curso: Engenharia de software 
 Semestre: 5 semestre 
 Bairro: santana
 Se trabalha: 
+<<<<<<< HEAD
 Objetivo: Crescer na área de Tecnologia e atuar fora do país 
+=======
+Objetivo: Crescer na área de Tecnologia e atuar fora do pais 
+>>>>>>> Kaua
