@@ -2,18 +2,18 @@
 // Array com pelo menos 10 objetos contendo: nome, preco, estoque
 
 let produtos = [
-    { nome: 'Minecraft',                preco: 119.90,  estoque: 200 },
-    { nome: 'GTA V',                    preco: 89.90,   estoque: 150 },
-    { nome: 'The Witcher 3',            preco: 79.90,   estoque: 120 },
-    { nome: 'Red Dead Redemption 2',    preco: 149.90,  estoque: 90  },
-    { nome: 'God of War',               preco: 199.90,  estoque: 75  },
-    { nome: 'Elden Ring',               preco: 249.90,  estoque: 300 },
-    { nome: 'Fortnite',                 preco: 0.00,    estoque: 999 },
-    { nome: 'Counter-Strike 2',         preco: 0.00,    estoque: 500 },
-    { nome: 'FIFA 24',                  preco: 299.90,  estoque: 60  },
-    { nome: 'Cyberpunk 2077',           preco: 199.90,  estoque: 110 },
-    { nome: 'Dark Souls 3',             preco: 99.90,   estoque: 85  },
-    { nome: 'Zelda: Breath of the Wild', preco: 299.90, estoque: 45  }
+    { nome: 'Camisa Oficial Flamengo',        preco: 249.90, estoque: 120 },
+    { nome: 'Camisa Oficial Palmeiras',       preco: 239.90, estoque: 95  },
+    { nome: 'Bola Oficial Champions League',  preco: 199.90, estoque: 60  },
+    { nome: 'Chuteira Nike Mercurial',        preco: 599.90, estoque: 40  },
+    { nome: 'Meião Esportivo',                preco: 39.90,  estoque: 300 },
+    { nome: 'Shorts Futebol Adidas',          preco: 89.90,  estoque: 150 },
+    { nome: 'Luvas de Goleiro Profissional',  preco: 149.90, estoque: 80  },
+    { nome: 'Agasalho Seleção Brasileira',    preco: 329.90, estoque: 50  },
+    { nome: 'Boné Oficial Corinthians',       preco: 79.90,  estoque: 110 },
+    { nome: 'Camisa Retrô Santos',            preco: 199.90, estoque: 70  },
+    { nome: 'Bola Society Penalty',           preco: 129.90, estoque: 200 },
+    { nome: 'Caneleira Profissional',         preco: 59.90,  estoque: 180 }
 ];
 
 // =====================================================
