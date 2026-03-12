@@ -7,7 +7,7 @@
 
 | Nome Completo | RA | Responsabilidade |
 |---|---|---|
-| [Nome do Aluno 1] | [RA] | Coordenação geral e redação do relatório |
+| [Marcelo Antonio Pereira Marcolino] | [824144456] | Coordenação geral e redação do relatório |
 | [Nome do Aluno 2] | [RA] | Definição de tarefas e recrutamento de participantes |
 | [Nome do Aluno 3] | [RA] | Aplicação dos testes e coleta de dados |
 | [Nome do Aluno 4] | [RA] | Análise de usabilidade e heurísticas |
