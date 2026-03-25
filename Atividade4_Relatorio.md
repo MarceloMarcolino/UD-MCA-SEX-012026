@@ -8,9 +8,9 @@
 | Nome Completo | RA | Responsabilidade |
 |---|---|---|
 | [Marcelo Antonio Pereira Marcolino] | [824144456] | Coordenação geral e redação do relatório |
-| [Nome do Aluno 2] | [RA] | Definição de tarefas e recrutamento de participantes |
-| [Nome do Aluno 3] | [RA] | Aplicação dos testes e coleta de dados |
-| [Nome do Aluno 4] | [RA] | Análise de usabilidade e heurísticas |
+| [Gustavo de Oliveira Nascimento] | [824130662] | Definição de tarefas e recrutamento de participantes |
+| [Kaua Henrique Gazaroli Da Silva] | [824132179] | Aplicação dos testes e coleta de dados |
+| [Matheus Henrique Vieira da Silva] | [824136558] | Análise de usabilidade e heurísticas |
 | [Nome do Aluno 5] | [RA] | Construção do mapa de calor (desafio) |
 
 ---
