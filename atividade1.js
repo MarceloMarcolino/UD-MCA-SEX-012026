@@ -20,7 +20,7 @@ let filmes = [
     'Frozen',                        // 18
     'Velozes e Furiosos',            // 19
     'Deadpool',                      // 20
-];
+]; 
 
 // =====================================================
 // A. Qual elemento está na posição 0, 7, 11, 15, 18 e 20?
