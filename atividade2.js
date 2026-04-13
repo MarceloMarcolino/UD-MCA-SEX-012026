@@ -6,7 +6,7 @@ let filme = {
     genero: 'Ficção Científica',
     preco: 39.90,
     estoque: 120
-};
+}; 
 
 // =====================================================
 // A. Como acessar o nome do objeto?
