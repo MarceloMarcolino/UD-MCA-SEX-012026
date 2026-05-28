@@ -15,3 +15,8 @@ dist/
 # OS files
 .DS_Store
 Thumbs.db
+
+# Archives (backups grandes - nao versionar)
+*.7z
+*.zip
+*.rar
